@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently a rising high school junior. I'm working on competitive programming, aiming on US Camp 2027.
+
 <!--
 **xuyuan-w/xuyuan-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
